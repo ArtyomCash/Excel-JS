@@ -1,0 +1,12 @@
+Webpack (import/exports)
+  Babel
+  Scss
+  Eslint
+  2 Modes
+      - Dev
+        Dev Server обновляет стили 
+        SourcesMaps, Eslint, Not Minified JS & CSS
+      - Prod
+        Minified Code
+Git  
+PR - запрос на совмезение веток
