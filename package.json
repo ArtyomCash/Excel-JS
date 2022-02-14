@@ -1,0 +1,31 @@
+{
+  "name": "excel-js",
+  "version": "1.0.0",
+  "description": "Exel aplication",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtyomCash/Excel-JS.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Artyom K <cash.kin.art@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtyomCash/Excel-JS/issues"
+  },
+  "homepage": "https://github.com/ArtyomCash/Excel-JS#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
